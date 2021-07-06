@@ -1,0 +1,13 @@
+Host-Name = Mac-HamzaKhan-py-452.local
+Ram = 16 GB
+Total-CPUs = 8
+ALL CPU's Specification
+Model = Intel(R) Core(TM) i7-4980HQ CPU @ 2.80GHz : Speed = 2800
+Model = Intel(R) Core(TM) i7-4980HQ CPU @ 2.80GHz : Speed = 2800
+Model = Intel(R) Core(TM) i7-4980HQ CPU @ 2.80GHz : Speed = 2800
+Model = Intel(R) Core(TM) i7-4980HQ CPU @ 2.80GHz : Speed = 2800
+Model = Intel(R) Core(TM) i7-4980HQ CPU @ 2.80GHz : Speed = 2800
+Model = Intel(R) Core(TM) i7-4980HQ CPU @ 2.80GHz : Speed = 2800
+Model = Intel(R) Core(TM) i7-4980HQ CPU @ 2.80GHz : Speed = 2800
+Model = Intel(R) Core(TM) i7-4980HQ CPU @ 2.80GHz : Speed = 2800
+Platform = darwin
